@@ -1,4 +1,4 @@
-module github.com/nelbermora/bookstore_utils-go
+module github.com/nelbermora/bookstore_oauth-go
 
 go 1.15
 
